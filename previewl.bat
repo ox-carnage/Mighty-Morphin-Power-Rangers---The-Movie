@@ -1,0 +1,1 @@
+F:\Emuladores\Emuladores\Mega\Gens_r57shell_mod\Gens\gens.exe "bin\Mighty Morphin Power-BR.bin"

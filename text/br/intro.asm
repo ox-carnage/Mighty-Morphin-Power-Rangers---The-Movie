@@ -1,6 +1,6 @@
 
 		
-origin $001F6C33// ---> Endereço de onde sera gravado os blocos de textos.
+origin $001F6C10// ---> Endereço de onde sera gravado os blocos de textos.
 
 text_intro_01:
 	db $00
@@ -109,7 +109,4 @@ text_intro_18:
 	db $01
 	db $00
 	db $1F
-	text("  HOJE, A TRADICAO CONTINUA....")
-
-
-
+	text("  HOJE, A TRADICAO CONTINUA..")
