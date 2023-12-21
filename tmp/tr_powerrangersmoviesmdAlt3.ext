@@ -1,3 +1,4 @@
+
 @00000C60-00000CB1-00
 ;00000000{DEVELOPED FOR USE ONLY WITH                              NTSC GENESIS SYSTEMS.   ~00~}#085#082
 DESENVOLVIDO PARA USAR SOMENTE EM                         SISTEMAS GENESIS NTSC.  ~00~#082
@@ -189,3 +190,192 @@ ESCENA=VISUA~00~#013
 ;00000000{ 1st   2nd   3rd   4th   5th   6th   7th   8th   9th  10th  }#060#060
  1ro   2do   3ro   4to   5to   6to   7mo   8vo   9no  10mo  #060
 |60
+
+text_script_12:
+    script_text("DEVELOPED FOR USE ONLY WITH NTSC GENESIS SYSTEMS.")
+
+text_script_13:
+    script_text("BLUE RANGER")
+
+text_script_14:
+    script_text("RED RANGER")
+
+text_script_15:
+    script_text("BLACK RANGER")
+
+text_script_16:
+    script_text("YELLOW RANGER")
+
+text_script_17:
+    script_text("PINK RANGER")
+
+text_script_18:
+    script_text("WHITE RANGER")
+
+text_script_19:
+    script_text("NINJA MEGAZORD")
+
+text_script_20:
+    script_text("WHITE TIGERZORD")
+
+text_script_21:
+    script_text("TiMEGAZORD")
+
+text_script_22:
+    script_text("FALCONZORD")
+
+text_script_23:
+    script_text("PUTTY PATROL")
+
+text_script_24:
+    script_text("GOLDAR")
+
+text_script_25:
+    script_text("HORNITRON")
+
+text_script_26:
+    script_text("SiSENTINEL NECK")
+
+text_script_27:
+    script_text("SiSENTINEL RING")
+
+text_script_28:
+    script_text("SiSENTINEL EAR")
+
+text_script_29:
+    script_text("SCORPITRON")
+
+text_script_30:
+    script_text("IVAN ECTOkMi")
+
+text_script_31:
+    script_text("OOZEMAN")
+
+text_script_32:
+    script_text("IVAN OOZE")
+
+text_script_33:
+    script_text("SERPENTERA")
+
+text_script_34:
+    script_text("NOW PRINTING")
+
+text_script_35:
+    script_text("NOW PRINTING")
+
+text_script_36:
+    script_text("NOW PRINTING")
+
+text_script_37:
+    script_text("NOW PRINTING")
+
+text_script_38:
+    script_text("ENTER YOUR NAME")
+
+text_script_39:
+    script_text("CONTINUE")
+
+text_script_40:
+    script_text("ENTER YOUR NAME")
+
+text_script_41:
+    script_text("PRESS START")
+
+text_script_42:
+    script_text("PRESS START")
+
+text_script_43:
+    script_text("CREDIT")
+
+text_script_44:
+    script_text("GAME OVER")
+
+text_script_45:
+    script_text("ROUND NO [ DAMAGE OFF")
+
+text_script_46:
+    script_text("OFF")
+
+text_script_47:
+    script_text("ON")
+
+text_script_48:
+    script_text("ADVERTISE")
+
+text_script_49:
+    script_text("N~2E~M~2E~ZORD")
+
+text_script_50:
+    script_text("N~2E~M~2E~F~2E~ZORD")
+
+text_script_51:
+    script_text("T~2E~M~2E~ZORD")
+
+text_script_52:
+    script_text("W~2E~T~2E~ZORD")
+
+text_script_53:
+    script_text("LORD=ZEDD")
+
+text_script_54:
+    script_text("STAGE=1=OP")
+
+text_script_55:
+    script_text("STAGE=2=OP")
+
+text_script_56:
+    script_text("STAGE=3=OP")
+
+text_script_57:
+    script_text("STAGE=4=OP")
+
+text_script_58:
+    script_text("STAGE=4=ED")
+
+text_script_59:
+    script_text("STAGE=5=OP")
+
+text_script_60:
+    script_text("STAGE=5=ED")
+
+text_script_61:
+    script_text("STAGE=6=HF")
+
+text_script_62:
+    script_text("STAGE=6=ED")
+
+text_script_63:
+    script_text("SCORPITRON")
+
+text_script_64:
+    script_text("HORNITRON")
+
+text_script_65:
+    script_text("IVAN-ECTO")
+
+text_script_66:
+    script_text("SCARLET")
+
+text_script_67:
+    script_text("GOLDAR")
+
+text_script_68:
+    script_text("ENDING")
+
+text_script_69:
+    script_text("START")
+
+text_script_70:
+    script_text("WARNING")
+
+text_script_71:
+    script_text("F~2E~ZORD")
+
+text_script_72:
+    script_text("POWER=RANGERS=the=MOVIE")
+
+text_script_73:
+    script_text("VISUAL=SELECTOR")
+
+text_script_74:
+    script_text("VISUAL=SCENE")
