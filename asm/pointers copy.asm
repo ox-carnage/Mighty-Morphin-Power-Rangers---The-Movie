@@ -1,5 +1,5 @@
 // Intro
-origin $001E8828
+origin $1E8828
     dl text_intro_01
     dl text_intro_02
     dl text_intro_03
@@ -93,63 +93,3 @@ origin $0002D32C
     dl text_script_48
 origin $0002D348
     dl text_script_49
-
-//MENU
-origin $0002B190
-    dl menu_script_00
-origin $0002B808
-    dl menu_script_01
-
-//CUT SCENE
-
-origin $001E8D3E
-   dl scene_script_00
-   dl scene_script_01
-   dl scene_script_02
-   dl scene_script_03
-   dl scene_script_04
-   dl scene_script_05
-   dl scene_script_06
-   dl scene_script_07
-   dl scene_script_08
-   dl scene_script_09
-   dl scene_script_10
-   dl scene_script_11
-   dl scene_script_12
-   dl scene_script_13
-   dl scene_script_14
-    
-//HISTORIA
-origin  $001EA720
-   dl script_historia_00
-   dl script_historia_01
-   dl script_historia_02
-   dl script_historia_03
-   dl script_historia_04
-   dl script_historia_05
-   dl script_historia_06
-   dl script_historia_07
-   dl script_historia_08
-   dl script_historia_09
-   dl script_historia_10
-   dl script_historia_11
-   dl script_historia_12
-   dl script_historia_13
-   dl script_historia_14
-   dl script_historia_15
-   dl script_historia_16
-   dl script_historia_17
-   dl script_historia_18
-   dl script_historia_19
-
-origin $001EB3F6 //STAGE 03 
-
-origin $001EB92A //STAGE 4
-
-origin $001EBAC2 //STAGE 5
-
-origin $001EBB7E //STAGE 6
-
-origin $001EBB98 //STAGE 7
-
-origin $001EBB3C //STAGE 8

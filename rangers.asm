@@ -17,7 +17,7 @@ define   CONFIG_ROM_SIZE(eof)
 
 origin ROM_START
     // ; Original File
-    insert "bin/Mighty Morphin Power Rangers - The Movie (U) [!].bin"
+    insert "bin/Power_Rangers.gen"
     
     // ; Includes
     include "asm/macros.asm"
@@ -40,6 +40,9 @@ if (CONFIG_LANGUAGE == PORTUGUESE) {
     
     include "text/br/intro.asm"
     include "text/br/script.asm"
+    include "text/br/menu.asm"
+    include "text/br/cutscene.asm"
+    include "text/br/historia.asm"
     
    
 }

@@ -12,7 +12,7 @@ constant JAPANESE(7)
 // GAME
 constant ROM_START($00000000)
 constant ROM_END($001FFEB1) 
-
+constant ENDSTRING($FFFF)
 
 constant VDP_DATA($C00000)
 constant VDP_CTRL($C00004)
