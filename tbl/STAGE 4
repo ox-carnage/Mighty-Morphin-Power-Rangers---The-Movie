@@ -1,1 +1,28 @@
 ($01)($2C)($00)($21)Due to Bulk and Skull's stupidity,($00)($20)three Angel Grove teenagers and a($00)($1E)teacher are kidnapped by Goldar($01)($2C)($00)($1B)while chasing a runaway baby($00)($1F)carriage. The Power Rangers must($00)($1F)save them before it is too late.
+
+    db $01
+    db $2C
+    db $00
+    db $21
+    script_historia("Due to Bulk and Skull's stupidity,")
+    db $00
+    db $20
+    script_historia("three Angel Grove teenagers and a")
+    db $00
+    db $1E
+    script_historia("teacher are kidnapped by Goldar")
+    db $01
+    db $2C
+    db $00
+    db $1B
+    script_historia("while chasing a runaway baby")
+    db $00
+    db $1F
+    script_historia("carriage. The Power Rangers must")
+    db $00
+    db $1F
+    script_historia("save them before it is too late.")
+
+Devido à estupidez de Bulk e Skull, três adolescentes da Alameda dos Anjos e um professor são sequestrados por Goldar
+"enquanto perseguiam um carrinho de bebê fugitivo".
+Os Power Rangers devem salvá-los antes que seja tarde demais.
