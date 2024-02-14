@@ -1,5 +1,7 @@
-origin $001EA7A8
+origin $001F6C10
+
 script_historia_00:
+
     db $00
     db $F0
     db $00
@@ -8,7 +10,7 @@ script_historia_00:
     db $00
     db $12
     script_historia("Ivan wastes no time")
-    endstring()
+endstring()
 script_historia_01:
     db $00
     db $F0
@@ -18,7 +20,8 @@ script_historia_01:
     db $00
     db $1B
     script_historia("damaging ZORDON and ALPHA 5.")
-    endstring()
+endstring()
+
 script_historia_02:
     db $01
     db $2C
@@ -31,6 +34,7 @@ script_historia_02:
     db $00
     db $1D
     script_historia("of a power that will help save")
+
 script_historia_03:
     db $01
     db $2C
@@ -43,6 +47,7 @@ script_historia_03:
     db $00
     db $22
     script_historia("Pheados, to find the Master Warrior")
+
 script_historia_04:
     db $00
     db $F0
@@ -51,18 +56,20 @@ script_historia_04:
     script_historia("who will help them gain the power")
     db $00
     db $09
-    script_historia("they need.")
-    endstring()
+    script_historia("they need.") 
+endstring()
+
 script_historia_05:
-     db $00
-     db $F0
-     db $00
-     db $1E
-     script_historia("Meanwhile, Ivan has gained mind")
-     db $00
-     db $1D
-     script_historia("control of the adults of Angel")
-     endstring()
+    db $00
+    db $F0
+    db $00
+    db $1E
+    script_historia("Meanwhile, Ivan has gained mind")
+    db $00
+    db $1D
+    script_historia("control of the adults of Angel")
+endstring()
+
 script_historia_06:
     db $00
     db $F0
@@ -72,7 +79,8 @@ script_historia_06:
     db $00
     db $04
     script_historia("Rita.")
-    endstring()
+endstring()
+
 script_historia_07:
     db $01
     db $2C
@@ -85,6 +93,7 @@ script_historia_07:
     db $00
     db $1F
     script_historia("Warrior, who saves them from the")
+
 script_historia_08:
     db $01
     db $2C
@@ -97,7 +106,7 @@ script_historia_08:
     db $00
     db $23
     script_historia("the power that they are looking for.")
-    endstring()
+
 script_historia_09:
     db $00
     db $F0
@@ -107,7 +116,8 @@ script_historia_09:
     db $00
     db $17
     script_historia("sends them on their way.")
-    endstring()
+endstring()
+
 script_historia_10:
     db $01
     db $2C
@@ -120,6 +130,7 @@ script_historia_10:
     db $00
     db $1D
     script_historia("Ninjetti to help them survive.")
+
 script_historia_11:
     db $01
     db $2C
@@ -132,6 +143,7 @@ script_historia_11:
     db $00
     db $21
     script_historia("Rangers encountered many difficult")
+
 script_historia_12:
     db $00
     db $F0
@@ -141,7 +153,8 @@ script_historia_12:
     db $00
     db $21
     script_historia("Creatures and the Stone Gargoyles.")
-    endstring()
+endstring()
+
 script_historia_13:
     db $00
     db $F0
@@ -151,7 +164,8 @@ script_historia_13:
     db $00
     db $23
     script_historia("adults of Angel Grove to help dig up")
-    endstring()
+endstring()
+
 script_historia_14:
     db $00
     db $F0
@@ -161,7 +175,8 @@ script_historia_14:
     db $00
     db $1C
     script_historia("the Scorpitron and Hornitron.")
-    endstring()
+endstring()
+
 script_historia_15:
     db $01
     db $2C
@@ -174,7 +189,7 @@ script_historia_15:
     db $00
     db $1E
     script_historia("find the Temple of Great Power.")
-    
+
 script_historia_16:
     db $00
     db $F0
@@ -184,7 +199,8 @@ script_historia_16:
     db $00
     db $13
     script_historia("Power of the Temple.")
-    endstring()
+endstring()
+
 script_historia_17:
     db $01
     db $2C
@@ -197,6 +213,7 @@ script_historia_17:
     db $00
     db $0A
     script_historia("about Ivan.")
+
 script_historia_18:
     db $00
     db $F0
@@ -206,7 +223,8 @@ script_historia_18:
     db $00
     db $13
     script_historia("blast back to Earth.")
-    endstring()
+endstring()
+
 script_historia_19:
     db $01
     db $2C
@@ -219,7 +237,22 @@ script_historia_19:
     db $00
     db $04
     script_historia("city.")
-   
- 
- 
+    
+script_historia_20:
+    db $01
+    db $2C
+    db $00
+    db $1A
+    script_historia("         "THE POWER IS ON!"")
+endstring()
 
+
+
+
+
+
+
+
+origin $001EC676
+delay_historia_00:
+delay()

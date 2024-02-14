@@ -1,4 +1,4 @@
-origin $001F7102
+origin $001F7455
 text_script_00:
     script_text(" OS 10 MAIS DE HOJE")
 

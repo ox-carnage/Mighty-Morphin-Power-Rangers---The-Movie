@@ -29,6 +29,10 @@ macro endstring() {
     dw ENDSTRING
 }
 
+macro delay() {
+    dw DELAY
+}
+
 macro save_registers_to_sp() {
     movem.l #$FFFF,-(a7)
 }

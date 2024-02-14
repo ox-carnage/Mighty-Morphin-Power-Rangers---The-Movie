@@ -17,7 +17,7 @@ define   CONFIG_ROM_SIZE(eof)
 
 origin ROM_START
     // ; Original File
-    insert "bin/Power_Rangers.gen"
+    insert "bin/pr.gen"
     
     // ; Includes
     include "asm/macros.asm"
@@ -42,7 +42,12 @@ if (CONFIG_LANGUAGE == PORTUGUESE) {
     include "text/br/script.asm"
     include "text/br/menu.asm"
     include "text/br/cutscene.asm"
-    include "text/br/historia.asm"
+    include "text/br/fase1.asm"
+    include "text/br/fase3.asm"
+    include "text/br/fase4.asm"
+    include "text/br/fase5.asm"
+    include "text/br/fase7.asm"
+    include "text/br/final.asm"
     
    
 }

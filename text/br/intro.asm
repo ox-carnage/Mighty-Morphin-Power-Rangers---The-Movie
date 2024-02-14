@@ -1,6 +1,6 @@
 
 		
-origin $001F6C10// ---> Endereço de onde sera gravado os blocos de textos.
+origin $001F8464// ---> Endereço de onde sera gravado os blocos de textos.
 
 text_intro_01:
 	db $00

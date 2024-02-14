@@ -13,6 +13,7 @@ constant JAPANESE(7)
 constant ROM_START($00000000)
 constant ROM_END($001FFEB1) 
 constant ENDSTRING($FFFF)
+constant DELAY($0020)
 
 constant VDP_DATA($C00000)
 constant VDP_CTRL($C00004)
