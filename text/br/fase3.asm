@@ -1,5 +1,5 @@
 
-origin $001F6BF8
+origin $1EB422
 script_historia_21:
     db $01
     db $2C

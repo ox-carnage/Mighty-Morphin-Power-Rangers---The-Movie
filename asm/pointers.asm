@@ -111,6 +111,7 @@ origin $001E8D3E
     
 //HISTORIA
 origin  $001EA720
+
    dl script_historia_00
    dl script_historia_01
    dl delay_historia_00
@@ -121,8 +122,7 @@ origin  $001EA720
    dl script_historia_05
    dl script_historia_06
    dl delay_historia_00
-   dl script_historia_07
-   dl delay_historia_00
+   dl script_historia_07  
    dl script_historia_08
    dl script_historia_09
    dl delay_historia_00
@@ -145,6 +145,7 @@ origin  $001EA720
    dl delay_historia_00
    dl delay_historia_00
    dl script_historia_20
+
 origin $001EB3F6 //STAGE 03 
     dl script_historia_21
     dl script_historia_22
@@ -158,24 +159,24 @@ origin $001EB3F6 //STAGE 03
     dl script_historia_28
 origin $001EC5D6  //STAGE 4
     dl script_historia_29
-origin $001EB92A    //STAGE 5
-    dl script_historia_30
-    dl script_historia_31
-origin $001EBB7E //STAGE 7
-    dl script_historia_32
-    dl script_historia_33
-    dl script_historia_34
-    dl script_historia_35
-//
-origin $001EC674 // FINAL
-    dl script_historia_36
-    dl script_historia_37
-    dl script_historia_38
-    dl script_historia_39
-    dl script_historia_40
-    dl script_historia_41
-    dl script_historia_42
-    dl script_historia_43
+//origin $001EB92A    //STAGE 5
+//    dl script_historia_30
+//    dl script_historia_31
+//origin $001EBB7E //STAGE 7
+//    dl script_historia_32
+//    dl script_historia_33
+//    dl script_historia_34
+//    dl script_historia_35
+////
+//origin $001EC674 // FINAL
+//    dl script_historia_36
+//    dl script_historia_37
+//    dl script_historia_38
+//    dl script_historia_39
+//    dl script_historia_40
+//    dl script_historia_41
+//    dl script_historia_42
+//    dl script_historia_43
 //origin $001EBAC2 //STAGE 5
 //
 

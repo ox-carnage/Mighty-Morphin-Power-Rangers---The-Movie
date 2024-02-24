@@ -1,5 +1,5 @@
 
-origin $001ED3A2
+origin $01FFEB6
 script_historia_30:
     db $01
     db $2C
