@@ -1,10 +1,8 @@
-origin $001F7455
-text_script_00:
-    script_text(" OS 10 MAIS DE HOJE")
+//origin $001F85E1
 
 origin $002E7E1
 text_script_01:
-    script_text("STAGE")
+    script_text(" FASE")
 
 origin $0002E7F7
 text_script_02:
@@ -37,17 +35,17 @@ origin $0002E82C
 text_script_11:
     script_text("10th")
 
-origin $001F7161
+origin $001F8D20
 text_script_12:
     script_text("DEVELOPED FOR USE ONLY WITH NTSC GENESIS SYSTEMS.")
 
-origin $00006996
+//origin $001F8D20
 text_script_13:
-    script_text("BLUE RANGER    ")
-    script_text("BLACK RANGER   ")
-    script_text("YELLOW RANGER  ")
-    script_text("PINK RANGER    ")
-    script_text("WHITE RANGER   ")
+    script_text("RANGER AZUL    ")
+    script_text("RANGER PRETO   ")
+    script_text("RANGER AMARELO ")
+    script_text("RANGER ROSA    ")
+    script_text("RANGER BRANCO   ")
     script_text("NINJA MEGAZORD  ")
     script_text("WHITE TIGERZORD ")
     script_text("TiMEGAZORD      ")
@@ -68,8 +66,10 @@ text_script_13:
     script_text("NOW PRINTING    ")
     script_text("NOW PRINTING    ")
     script_text("NOW PRINTING    ")
+text_script_00:
+    script_text(" OS 10 MAIS DE HOJE")
 
-origin $001F71C1
+origin $001F8FD0
 text_script_14:
     script_text("ENTER YOUR NAME")
 
@@ -180,3 +180,22 @@ text_script_48:
 
 text_script_49:
     script_text("VISUAL SCENE")
+
+origin $001F9200
+text_script_50:
+    script_historia("Por favor lembre-se da diferenca")
+text_script_51:
+    script_historia("entre fantasia e realidade. Voce so")
+text_script_52:
+    script_historia("deve ser um Ranger, no video game")
+text_script_53:
+    script_historia("nao brigue na escola ou em casa!")
+
+origin $0002998B
+    db $1F
+origin $00029997
+    db $22
+origin $000299A3
+    db $20
+origin $000299AF
+    db $20

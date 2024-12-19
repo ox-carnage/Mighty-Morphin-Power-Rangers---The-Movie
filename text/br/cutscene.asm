@@ -45,8 +45,8 @@ scene_script_07:
     db $00
     db $00
     db $00
-    db $22
-    script_scene("O SEU CAMINHO MALIGNO E DESTRUICAO.")
+    db $23
+    script_scene("O SEU CAMINHO MALIGNO DE DESTRUICAO.")
 scene_script_08:
     db $00
     db $01
@@ -69,36 +69,36 @@ scene_script_11:
     db $00
     db $00
     db $00
-    db $24
-    script_scene("E O ENTERROU PROFUNDAMENTE SOB A TERRA.")
+    db $1A
+    script_scene("E O ENTERROU PROFUNDAMENTE.")
 scene_script_12:
     db $00
     db $02
     db $00
-    db $21
+    db $20
     script_scene("DIAS ATUAIS, NA ALAMEDA DOS ANJOS")
 scene_script_13:
     db $00
     db $01
     db $00
-    db $20
+    db $21
     script_scene("UMA EQUIPE DE CONSTRUCAO DA CIDADE")
 scene_script_14:
     db $00
     db $00
     db $00
-    db $1F
+    db $20
     script_scene("ACIDENTALMENTE DESCOBRE A CAMARA")
 scene_script_15:
     db $00
     db $00
     db $00
-    db $1C
+    db $1B
     script_scene("HIBERBALICA E LIBERA O PODER")
 scene_script_16:
     db $00
     db $00
     db $00
-    db $14
+    db $15
     script_scene("MALIGNO DE IVAN OOZE.")
 

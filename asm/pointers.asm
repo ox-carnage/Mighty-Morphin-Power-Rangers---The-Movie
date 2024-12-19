@@ -19,21 +19,21 @@ origin $001E8828
     dl text_intro_17
     dl text_intro_18
 
-origin $001EA720
+origin $0002E422
     dl text_script_00
-    dl text_script_01
-    dl text_script_02
-    dl text_script_03
-    dl text_script_04
-    dl text_script_05
-    dl text_script_06
-    dl text_script_07
-    dl text_script_08
-    dl text_script_09
-    dl text_script_10
-    dl text_script_11
-    dl text_script_12
-    dl text_script_13
+  //  dl text_script_01
+  //  dl text_script_02
+  //  dl text_script_03
+  //  dl text_script_04
+  //  dl text_script_05
+  //  dl text_script_06
+  //  dl text_script_07
+  //  dl text_script_08
+  //  dl text_script_09
+  //  dl text_script_10
+  //  dl text_script_11
+  //  dl text_script_12
+  //  dl text_script_13
 //origin $00006C48
 //    dl text_script_14
 //origin $00006D90
@@ -83,12 +83,23 @@ origin $0002D32C
     dl text_script_48
 origin $0002D348
     dl text_script_49
+origin $0002998E
+    dl text_script_50
+origin $0002999A
+    dl text_script_51
+origin $000299A6
+    dl text_script_52
+origin $000299B2
+    dl text_script_53
+
+
 
 //MENU
 origin $0002B190
     dl menu_script_00
 origin $0002B808
     dl menu_script_01
+
 
 //CUT SCENE
 
@@ -108,6 +119,8 @@ origin $001E8D3E
    dl scene_script_12
    dl scene_script_13
    dl scene_script_14
+   dl scene_script_15
+   dl scene_script_16
     
 //HISTORIA
 origin  $001EA720
@@ -159,28 +172,29 @@ origin $001EB3F6 //STAGE 03
     dl script_historia_28
 origin $001EC5D6  //STAGE 4
     dl script_historia_29
-//origin $001EB92A    //STAGE 5
-//    dl script_historia_30
-//    dl script_historia_31
-//origin $001EBB7E //STAGE 7
-//    dl script_historia_32
-//    dl script_historia_33
-//    dl script_historia_34
-//    dl script_historia_35
-////
-//origin $001EC674 // FINAL
-//    dl script_historia_36
-//    dl script_historia_37
-//    dl script_historia_38
-//    dl script_historia_39
-//    dl script_historia_40
-//    dl script_historia_41
-//    dl script_historia_42
-//    dl script_historia_43
-//origin $001EBAC2 //STAGE 5
-//
+origin $001EB92A    //STAGE 5
+    dl script_historia_30
+    dl script_historia_31
+origin $001EBB7E //STAGE 7
+    dl script_historia_32
+    dl script_historia_33
+    dl script_historia_34
+    dl script_historia_35
+origin $001EBAC2
+    dl script_historia_36
+origin $001EBE3C
+    dl script_historia_37
+    dl script_historia_38
+    dl script_historia_39
+origin $001EC020
+    dl script_historia_40
 
-
-//origin $001EBB98 //STAGE 7
-//
-//origin $001EBB3C //STAGE 8
+origin $001EC074 // FINAL
+    dl script_historia_41
+    dl script_historia_42
+    dl script_historia_43
+    dl script_historia_44
+    dl script_historia_45
+    dl script_historia_46
+    dl script_historia_47
+   
